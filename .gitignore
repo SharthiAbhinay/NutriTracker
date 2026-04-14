@@ -1,0 +1,20 @@
+# API keys — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Evaluation outputs
+evaluation_results.json
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
